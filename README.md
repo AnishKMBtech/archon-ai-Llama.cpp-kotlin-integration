@@ -22,7 +22,7 @@ https://github.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/releases/
 
 ## 🖼️ Screenshots
 
-### Main Preview
+### LOGO Preview
 ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/main/screenshot/1.jpeg)
 
 ### More Screenshots
