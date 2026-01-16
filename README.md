@@ -24,8 +24,8 @@ https://github.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/releases/
 
 | | |
 |--|--|
-| ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/master/main/screenshot/1.jpeg) | ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/master/main/screenshot/2.jpeg) |
-| ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/master/main/screenshot/3.jpeg) | ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/master/main/screenshot/4.jpeg) |
+| ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/main/screenshot/1.jpeg) | ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/main/screenshot/2.jpeg) |
+| ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/main/screenshot/3.jpeg) | ![](https://raw.githubusercontent.com/AnishKMBtech/archon-ai-Llama.cpp-kotlin-integration/main/screenshot/4.jpeg) |
 
 
 ---
